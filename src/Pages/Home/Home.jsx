@@ -14,7 +14,7 @@ const Home = () => {
       <Photoo />
       <Service />
       <Projects />
-      <FloatingActionButton />
+      //<FloatingActionButton /> //
       <MediaControlCard/>
       <Footer />
     </div>
